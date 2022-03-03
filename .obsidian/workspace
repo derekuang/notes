@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "6c9a00b53455250d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a66d9e3857641da",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "regex/2020-05-14-常用正则表达式.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adb9ec1dc755bfbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7094af95e34b202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f160bdf859f5f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec62856717bad30b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f25f32461e525249",
+    "type": "split",
+    "children": [
+      {
+        "id": "5740fe969647a2af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d61354253249b672",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "regex/2020-05-14-常用正则表达式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5a66d9e3857641da",
+  "lastOpenFiles": [
+    "regex/2020-05-14-常用正则表达式.md",
+    "other/2020-05-17-如何学习一门技术.md",
+    "other/2020-04-26-windows+github+hexo部署个人博客.md",
+    "git/2020-05-13-Git标签管理.md",
+    "git/2020-05-12-Git分支管理.md",
+    "git/2020-05-09-Git远程仓库.md",
+    "git/2020-05-08-Git时光机穿梭.md",
+    "git/2020-04-30-Git简介与安装事项.md",
+    "erlang/2020-05-21-OTP设计原则-Releases.md",
+    "erlang/2020-05-21-OTP设计原则-Distributed Applications.md"
+  ]
+}
