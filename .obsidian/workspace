@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/2022-03-03-Git commit 规范.md",
-            "mode": "preview",
+            "file": "other/2020-04-26-windows+github+hexo部署个人博客.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/2022-03-03-Git commit 规范.md",
+                "file": "other/2020-04-26-windows+github+hexo部署个人博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5a66d9e3857641da",
   "lastOpenFiles": [
+    "other/2020-04-26-windows+github+hexo部署个人博客.md",
+    "derekuang.github.io.md",
     "git/2022-03-03-Git commit 规范.md",
     "regex/2020-05-14-常用正则表达式.md",
     "other/2020-05-17-如何学习一门技术.md",
-    "other/2020-04-26-windows+github+hexo部署个人博客.md",
     "git/2020-05-13-Git标签管理.md",
     "git/2020-05-12-Git分支管理.md",
     "git/2020-05-09-Git远程仓库.md",
     "git/2020-05-08-Git时光机穿梭.md",
-    "git/2020-04-30-Git简介与安装事项.md",
-    "erlang/2020-05-21-OTP设计原则-Releases.md"
+    "git/2020-04-30-Git简介与安装事项.md"
   ]
 }
